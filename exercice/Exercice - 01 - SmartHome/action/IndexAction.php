@@ -10,6 +10,9 @@
 
         protected function executeAction() {
 
-            return [];
+            $listelights = []; 
+            $listelights = SmartLightDAO::getLightsStatus(); 
+
+            return compact("listelights");
         }
     }
