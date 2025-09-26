@@ -1,0 +1,7 @@
+db_name jean-marc 
+db_host webpgsql.notes-de-cours.com
+db_name e2251366
+db_pass e2251366
+
+
+db_e2251366
