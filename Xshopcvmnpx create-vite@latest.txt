@@ -1,0 +1,58 @@
+X:\shopcvm>npx create-vite@latest
+Need to install the following packages:
+create-vite@8.0.1
+Ok to proceed? (y) y
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'create-vite@8.0.1',
+npm WARN EBADENGINE   required: { node: '^20.19.0 || >=22.12.0' },
+npm WARN EBADENGINE   current: { node: 'v20.12.2', npm: '10.5.0' }
+npm WARN EBADENGINE }
+|
+o  Project name:
+|  shopcvm-frontend
+|
+o  Select a framework:
+|  React
+|
+o  Select a variant:
+|  JavaScript + SWC
+|
+o  Use rolldown-vite (Experimental)?:
+|  No
+|
+o  Install with npm and start now?
+|  Yes
+|
+o  Scaffolding project in X:\shopcvm\shopcvm-frontend...
+|
+o  Installing dependencies with npm...
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@vitejs/plugin-react-swc@4.1.0',
+npm WARN EBADENGINE   required: { node: '^20.19.0 || >=22.12.0' },
+npm WARN EBADENGINE   current: { node: 'v20.12.2', npm: '10.5.0' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'vite@7.1.7',
+npm WARN EBADENGINE   required: { node: '^20.19.0 || >=22.12.0' },
+npm WARN EBADENGINE   current: { node: 'v20.12.2', npm: '10.5.0' }
+npm WARN EBADENGINE }
+
+added 113 packages, and audited 114 packages in 9m
+
+29 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+|
+o  Starting dev server...
+
+> shopcvm-frontend@0.0.0 dev
+> vite
+
+You are using Node.js 20.12.2. Vite requires Node.js version 20.19+ or 22.12+. Please upgrade your Node.js version.
+
+  VITE v7.1.7  ready in 7097 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
